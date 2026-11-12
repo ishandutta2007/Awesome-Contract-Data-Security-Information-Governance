@@ -1,38 +1,48 @@
-# Awesome Contract Data Security & Information Governance
+# Awesome Contract Data Security & Information Governance 🛡️💼
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-[![Tracked Projects](https://img.shields.io/badge/Tools_Tracked-20+-brightgreen.svg)](#table-of-contents)
+<p align="center">
+  <img src="assets/banner.svg" alt="Awesome Contract Data Security &amp; Information Governance Banner" width="100%">
+</p>
 
-A curated directory of top-tier enterprise SaaS platforms and battle-tested open-source projects for **Contract Data Security**, **Information Governance**, **Sensitive Data Discovery**, and **Regulatory Compliance**.
+<p align="center">
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
+  <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License: MIT" /></a>
+  <a href="#table-of-contents"><img src="https://img.shields.io/badge/Tools_Tracked-20+-brightgreen.svg" alt="Tracked Projects" /></a>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+</p>
 
-Whether you are managing contract lifecycle security, classifying sensitive PII/IP across enterprise data stores, or implementing automated compliance controls (SOC 2, ISO 27001, HIPAA, GDPR), this repository catalogs industry-standard solutions across commercial SaaS and self-hosted open-source software.
+A curated directory of top-tier enterprise SaaS platforms and battle-tested open-source projects for **Contract Data Security**, **Information Governance**, **Sensitive Data Discovery**, and **Regulatory Compliance**. 🚀
 
----
-
-## Table of Contents
-- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
-- [Enterprise SaaS Platforms](#enterprise-saas-platforms)
-- [Open-Source Governance & Security Projects](#open-source-governance--security-projects)
-- [Architecture & Governance Blueprint](#architecture--governance-blueprint)
-- [How to Contribute](#how-to-contribute)
-- [Disclaimer](#disclaimer)
+Whether you are managing contract lifecycle security, classifying sensitive PII/IP across enterprise data stores, or implementing automated compliance controls (SOC 2, ISO 27001, HIPAA, GDPR), this repository catalogs industry-standard solutions across commercial SaaS and self-hosted open-source software. 🔐
 
 ---
 
-## Sector Overview & Market Dynamics
+## 📑 Table of Contents
+- [📊 Sector Overview & Market Dynamics](#-sector-overview--market-dynamics)
+- [🏢 Enterprise SaaS Platforms](#-enterprise-saas-platforms)
+- [💻 Open-Source Governance & Security Projects](#-open-source-governance--security-projects)
+- [🏗️ Architecture & Governance Blueprint](#️-architecture--governance-blueprint)
+- [🤝 How to Contribute](#-how-to-contribute)
+- [💖 Support](#-support)
+- [⭐ Star History](#-star-history)
+- [⚠️ Disclaimer](#️-disclaimer)
 
-The global **Data Security** and **Information Governance** market is valued at approximately **$37.5B–$42B combined** (with Data Security representing ~$32.9B growing at ~11.4% CAGR, and Information Governance representing ~$5.2B expanding at ~16–21% CAGR toward $15B+ by the early 2030s).
+---
+
+## 📊 Sector Overview & Market Dynamics
+
+The global **Data Security** and **Information Governance** market is valued at approximately **$37.5B–$42B combined** (with Data Security representing ~$32.9B growing at ~11.4% CAGR, and Information Governance representing ~$5.2B expanding at ~16–21% CAGR toward $15B+ by the early 2030s). 📈
 
 The sector exhibits a **hybrid, barbell market concentration**:
-- **Moderately Concentrated Core:** Foundational enterprise infrastructure, cloud identity, and unified compliance map platforms are concentrated among legacy tech titans and cyber resilience giants (e.g., Microsoft, CyberArk / Palo Alto Networks, Rubrik).
-- **Highly Fragmented Edge:** The specialized layers—encompassing automated contract intelligence, sensitive PII/secret discovery, AI safety governance, and open-source data cataloging—remain highly fragmented among fast-moving venture-backed unicorns and community-led open-source frameworks addressing specific data sovereignty and audit requirements.
+- 🏢 **Moderately Concentrated Core:** Foundational enterprise infrastructure, cloud identity, and unified compliance map platforms are concentrated among legacy tech titans and cyber resilience giants (e.g., Microsoft, CyberArk / Palo Alto Networks, Rubrik).
+- 🧩 **Highly Fragmented Edge:** The specialized layers—encompassing automated contract intelligence, sensitive PII/secret discovery, AI safety governance, and open-source data cataloging—remain highly fragmented among fast-moving venture-backed unicorns and community-led open-source frameworks addressing specific data sovereignty and audit requirements.
 
 ---
 
-## Enterprise SaaS Platforms
+## 🏢 Enterprise SaaS Platforms
 
-Below is a curated comparison of leading SaaS platforms for contract data security, governance, and compliance. Table is sorted descending by company scale (Valuation / Enterprise Revenue).
+Below is a curated comparison of leading SaaS platforms for contract data security, governance, and compliance. Table is sorted descending by company scale (Valuation / Enterprise Revenue). 💼
 
 | Product | Scale (Valuation / Revenue) | Description | Pricing (Starting Tier) | Free Tier / Trial Limits |
 |:---|:---|:---|:---|:---|
@@ -49,9 +59,9 @@ Below is a curated comparison of leading SaaS platforms for contract data securi
 
 ---
 
-## Open-Source Governance & Security Projects
+## 💻 Open-Source Governance & Security Projects
 
-A comprehensive collection of active, production-grade open-source tools for self-hosted data discovery, document archiving, metadata management, secret detection, and contract data classification.
+A comprehensive collection of active, production-grade open-source tools for self-hosted data discovery, document archiving, metadata management, secret detection, and contract data classification. 🛠️
 
 Sorted descending by GitHub stars:
 
@@ -63,40 +73,56 @@ Sorted descending by GitHub stars:
 | **[Documenso](https://github.com/documenso/documenso)** | [![Stars](https://img.shields.io/github/stars/documenso/documenso?style=social&color=white)](https://github.com/documenso/documenso/stargazers) | AGPL-3.0 | Digital Signatures & Contract Workflows | Open-source alternative to DocuSign. Provides self-hostable digital document signing, tamper-evident cryptographic audit logs, and secure contract lifecycle management. |
 | **[DataHub](https://github.com/datahub-project/datahub)** | [![Stars](https://img.shields.io/github/stars/datahub-project/datahub?style=social&color=white)](https://github.com/datahub-project/datahub/stargazers) | Apache-2.0 | Metadata Catalog & Lineage | Originally created by LinkedIn, DataHub delivers a real-time metadata platform with GraphQL APIs, governance assertions, automated schema tracking, and dataset classification. |
 | **[Great Expectations](https://github.com/great-expectations/great_expectations)** | [![Stars](https://img.shields.io/github/stars/great-expectations/great_expectations?style=social&color=white)](https://github.com/great-expectations/great_expectations/stargazers) | Apache-2.0 | Data Quality & Rule Validation | Python-based validation framework enabling teams to test, document, and monitor data quality. Validates contract metadata pipelines and enforces governance rules as code. |
-| **[Microsoft Presidio](https://github.com/microsoft/presidio)** | [![Stars](https://img.shields.io/github/stars/microsoft/presidio)](https://github.com/microsoft/presidio/stargazers) | MIT | PII Detection & Anonymization | Context-aware PII detection and de-identification engine using NLP and regex to recognize and redact confidential identifiers (names, SSNs, bank details) across legal agreements. |
+| **[Microsoft Presidio](https://github.com/microsoft/presidio)** | [![Stars](https://img.shields.io/github/stars/microsoft/presidio?style=social&color=white)](https://github.com/microsoft/presidio/stargazers) | MIT | PII Detection & Anonymization | Context-aware PII detection and de-identification engine using NLP and regex to recognize and redact confidential identifiers (names, SSNs, bank details) across legal agreements. |
 | **[Amundsen](https://github.com/amundsen-io/amundsen)** | [![Stars](https://img.shields.io/github/stars/amundsen-io/amundsen?style=social&color=white)](https://github.com/amundsen-io/amundsen/stargazers) | Apache-2.0 | Data Discovery Engine | Lyft's open-source data discovery engine powered by a PageRank-style search algorithm for data assets, team ownership mapping, and compliance tagging. |
 | **[Apache Atlas](https://github.com/apache/atlas)** | [![Stars](https://img.shields.io/github/stars/apache/atlas?style=social&color=white)](https://github.com/apache/atlas/stargazers) | Apache-2.0 | Enterprise Metadata & Classification | Scalable enterprise governance framework providing business taxonomies, classification propagation, and audit-ready lineage for enterprise Hadoop and cloud data lakes. |
 | **[Apache Ranger](https://github.com/apache/ranger)** | [![Stars](https://img.shields.io/github/stars/apache/ranger?style=social&color=white)](https://github.com/apache/ranger/stargazers) | Apache-2.0 | Security & Access Control Policy | Comprehensive data security framework for centralized authorization, fine-grained access control (row/column filtering), and audit logging across enterprise storage. |
 
 ---
 
-## Architecture & Governance Blueprint
+## 🏗️ Architecture & Governance Blueprint
 
-Organizations managing sensitive commercial agreements can assemble a robust, self-hosted governance and security stack using open-source tools:
+Organizations managing sensitive commercial agreements can assemble a robust, self-hosted governance and security stack using open-source tools: 🧩
 
-1. **Document Storage & Ingestion:** Deploy **[Paperless-ngx](https://github.com/paperless-ngx/paperless-ngx)** to ingest, OCR, and index contract repositories.
-2. **Sensitive Data Redaction & Classification:** Run **[Microsoft Presidio](https://github.com/microsoft/presidio)** over extracted document text to identify PII, financial details, and sensitive legal entities.
-3. **Secret & Key Leak Prevention:** Execute **[TruffleHog](https://github.com/trufflesecurity/trufflehog)** automated scans to safeguard contract directories against hardcoded API tokens or credentials.
-4. **Metadata Cataloging & Lineage:** Feed parsed contract metadata into **[OpenMetadata](https://github.com/open-metadata/OpenMetadata)** or **[DataHub](https://github.com/datahub-project/datahub)** to track data provenance, ownership, and regulatory tags.
-5. **Quality Verification & Access Enforcement:** Apply **[Great Expectations](https://github.com/great-expectations/great_expectations)** for contract pipeline test suites and **[Apache Ranger](https://github.com/apache/ranger)** to enforce role-based access control.
+1. 📥 **Document Storage & Ingestion:** Deploy **[Paperless-ngx](https://github.com/paperless-ngx/paperless-ngx)** to ingest, OCR, and index contract repositories.
+2. 🔍 **Sensitive Data Redaction & Classification:** Run **[Microsoft Presidio](https://github.com/microsoft/presidio)** over extracted document text to identify PII, financial details, and sensitive legal entities.
+3. 🔑 **Secret & Key Leak Prevention:** Execute **[TruffleHog](https://github.com/trufflesecurity/trufflehog)** automated scans to safeguard contract directories against hardcoded API tokens or credentials.
+4. 🗺️ **Metadata Cataloging & Lineage:** Feed parsed contract metadata into **[OpenMetadata](https://github.com/open-metadata/OpenMetadata)** or **[DataHub](https://github.com/datahub-project/datahub)** to track data provenance, ownership, and regulatory tags.
+5. ✅ **Quality Verification & Access Enforcement:** Apply **[Great Expectations](https://github.com/great-expectations/great_expectations)** for contract pipeline test suites and **[Apache Ranger](https://github.com/apache/ranger)** to enforce role-based access control.
 
 ---
 
-## How to Contribute
+## 🤝 How to Contribute
 
-We welcome contributions from legal ops engineers, compliance officers, security architects, and open-source maintainers!
+We welcome contributions from legal ops engineers, compliance officers, security architects, and open-source maintainers! ✨
 
-1. **Fork the Repository** on GitHub.
-2. **Create a Feature Branch** (`git checkout -b feature/add-new-tool`).
-3. **Add or Update Entries** in `README.md` following our standard tabular format:
+1. 🍴 **Fork the Repository** on GitHub.
+2. 🌿 **Create a Feature Branch** (`git checkout -b feature/add-new-tool`).
+3. 📝 **Add or Update Entries** in `README.md` following our standard tabular format:
    - For SaaS products: Include official links, realistic starting tier pricing, explicit free trial / plan limitations, and company scale metrics.
    - For Open-Source projects: Include valid GitHub links, real-time star badge (`style=social&color=white`), license, and practical governance use case.
-4. **Commit & Push** (`git commit -m "feat: add [Tool Name]" && git push origin feature/add-new-tool`).
-5. **Open a Pull Request** with a brief summary of the changes.
+4. 💾 **Commit & Push** (`git commit -m "feat: add [Tool Name]" && git push origin feature/add-new-tool`).
+5. 🚀 **Open a Pull Request** with a brief summary of the changes.
 
 ---
 
-## Disclaimer
+## 💖 Support
+
+Thank you for visiting and using this repository! If you find this curated ecosystem helpful:
+- ⭐ **Star** this repository on GitHub to help others discover it.
+- 🍴 **Fork** and contribute entries or improvements.
+- 📢 **Share** it with your network, team, and security community.
+- ☕ **Buy me a coffee / Sponsor:** If you'd like to support the ongoing maintenance and curation of open-source security lists, consider sponsoring via the [GitHub Sponsors Dashboard](https://github.com/sponsors/ishandutta2007).
+
+---
+
+## 📈 Star History
+
+[![Star History Chart](https://www.star-history.com/svg?repos=ishandutta2007/Awesome-Contract-Data-Security-Information-Governance&type=date&legend=top-left)](https://www.star-history.com/#ishandutta2007/Awesome-Contract-Data-Security-Information-Governance&type=date&legend=top-left)
+
+---
+
+## ⚠️ Disclaimer
 
 - This curated list is maintained for informational and educational purposes. Inclusion does not imply official endorsement or sponsorship.
 - Contract documents routinely contain sensitive commercial trade secrets, proprietary intellectual property, and personal data (PII). Ensure your organization implements end-to-end encryption, strict role-based access controls, and compliance with GDPR, CCPA/CPRA, and relevant sector-specific regulatory standards.
