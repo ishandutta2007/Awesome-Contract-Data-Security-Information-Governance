@@ -63,9 +63,9 @@ Below is a curated comparison of leading SaaS platforms for contract data securi
 
 A comprehensive collection of active, production-grade open-source tools for self-hosted data discovery, document archiving, metadata management, secret detection, and contract data classification. 🛠️
 
-Sorted descending by GitHub stars:
+Sorted descending by GitHub_Stars:
 
-| Project | Stars | License | Primary Focus | Description |
+| Project | GitHub_Stars | License | Primary Focus | Description |
 |:---|:---:|:---:|:---|:---|
 | **[Paperless-ngx](https://github.com/paperless-ngx/paperless-ngx)** | [![Stars](https://img.shields.io/github/stars/paperless-ngx/paperless-ngx?style=social&color=white)](https://github.com/paperless-ngx/paperless-ngx/stargazers) | GPL-3.0 | Document Archiving & OCR | Community-driven document management system that transforms physical and digital contracts into searchable, indexed archives with OCR, tag classification, and metadata extraction. |
 | **[TruffleHog](https://github.com/trufflesecurity/trufflehog)** | [![Stars](https://img.shields.io/github/stars/trufflesecurity/trufflehog?style=social&color=white)](https://github.com/trufflesecurity/trufflehog/stargazers) | AGPL-3.0 | Secret & Credential Scanning | High-performance scanner that detects exposed API keys, private certificates, passwords, and sensitive credentials buried inside codebases, contract repositories, and file storage. |
@@ -100,7 +100,7 @@ We welcome contributions from legal ops engineers, compliance officers, security
 2. 🌿 **Create a Feature Branch** (`git checkout -b feature/add-new-tool`).
 3. 📝 **Add or Update Entries** in `README.md` following our standard tabular format:
    - For SaaS products: Include official links, realistic starting tier pricing, explicit free trial / plan limitations, and company scale metrics.
-   - For Open-Source projects: Include valid GitHub links, real-time star badge (`style=social&color=white`), license, and practical governance use case.
+   - For Open-Source projects: Include valid GitHub links, real-time Stars_Badge (`style=social&color=white`), license, and practical governance use case.
 4. 💾 **Commit & Push** (`git commit -m "feat: add [Tool Name]" && git push origin feature/add-new-tool`).
 5. 🚀 **Open a Pull Request** with a brief summary of the changes.
 
