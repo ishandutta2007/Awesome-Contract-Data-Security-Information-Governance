@@ -1,6 +1,6 @@
 # Awesome-Contract-Data-Security-Information-Governance
 
-# Top Contract Data Security & Information Governance Ecosystem
+## Top Contract Data Security & Information Governance Ecosystem
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**  
 *Focused on Sensitive Data Discovery, Contract Data Classification & Regulatory Compliance*  
